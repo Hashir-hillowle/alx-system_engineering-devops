@@ -20,3 +20,4 @@ File 18-Display all lines of the file /etc/ssh/sshd_config starting with a lette
 File 19-Replaces all characters A and c from input to Z and e respectively.
 File 20-a script that removes all letters c and C from input.
 File 21-a script that reverse its input.
+File 22-a script that displays all users and their home directories, sorted by users.
