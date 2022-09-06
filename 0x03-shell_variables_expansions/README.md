@@ -7,4 +7,5 @@ File 5-a script that lists all local variables and environment variables, and fu
 File 6-a script that creates a new local variable.
 File 7-a script that creates a new global variable.
 File 8-a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+File 9-a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
