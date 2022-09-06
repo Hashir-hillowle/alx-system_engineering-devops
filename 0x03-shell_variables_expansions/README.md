@@ -5,4 +5,5 @@ File 3-a script that counts the number of directories in the PATH.
 File 4-a script that lists environment variables.
 File 5-a script that lists all local variables and environment variables, and functions.
 File 6-a script that creates a new local variable.
+File 7-a script that creates a new global variable.
 
